@@ -26,7 +26,7 @@ int main()
 		{
 			for (unsigned long long j(1); j <= i; j++)
 			{
-				if (j > 1 && j < i)
+				if (j > 1 && j < i) 
 				{
 					unsigned long long R = i % j;
 						if (R > 0)
